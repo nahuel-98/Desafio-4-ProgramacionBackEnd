@@ -1,0 +1,102 @@
+[
+	{
+		"title": "Cafe",
+		"description": "Taza de cafe",
+		"price": 600,
+		"thumbnail": "url imagen",
+        "category": "Cafeteria",
+		"code": 32343,
+		"stock": 60,
+		"id": 1
+	},
+    {
+		"title": "Capuccino",
+		"description": "Taza de capuccino",
+		"price": 800,
+		"thumbnail": "url imagen",
+        "category": "Cafeteria",
+		"code": 75357,
+		"stock": 60,
+		"id": 2
+	},
+    {
+		"title": "Chocolatada",
+		"description": "Taza de chocolatada",
+		"price": 500,
+		"thumbnail": "url imagen",
+        "category": "Cafeteria",
+		"code": 97789,
+		"stock": 60,
+		"id": 3
+	},
+    {
+		"title": "Mocaccino",
+		"description": "Taza de mocaccino",
+		"price": 1200,
+		"thumbnail": "url imagen",
+        "category": "Cafeteria",
+		"code": 45647,
+		"stock": 60,
+		"id": 4
+	},
+    {
+		"title": "Submarino",
+		"description": "Taza de submarino",
+		"price": 1600,
+		"thumbnail": "url imagen",
+        "category": "Cafeteria",
+		"code": 2546,
+		"stock": 60,
+		"id": 5
+	},
+	{
+		"title": "Cafe con torta",
+		"description": "Taza de cafe con una procion de torta",
+		"price": 1200,
+		"thumbnail": "url imagen",
+        "category": "Combos",
+		"code": 94494,
+		"stock": 60,
+		"id": 6
+	},
+	{
+		"title": "Cafe con leche y sanguche",
+		"description": "Taza de cafe con leche con sanguche de JyQ caliente",
+        "category": "combos",
+		"price": 1700,
+		"thumbnail": "url imagen",
+		"code": 658558,
+		"stock": 60,
+		"id": 7
+	},
+    {
+		"title": "Capuccino con galletas",
+		"description": "Taza de capuccino con 6 galletas",
+        "category": "combos",
+		"price": 2000,
+		"thumbnail": "url imagen",
+		"code": 62411,
+		"stock": 60,
+		"id": 8
+	},
+    {
+		"title": "Chococcino con tostadas",
+		"description": "Taza de chococcino con 2 tostadas",
+        "category": "combos",
+		"price": 1600,
+		"thumbnail": "url imagen",
+		"code": 320573,
+		"stock": 60,
+		"id": 9
+	},
+    {
+		"title": "Cafe doble con 4 facturas",
+		"description": "Taza grande de cafe con 4 facturas a eleccion",
+        "category": "combos",
+		"price": 1900,
+		"thumbnail": "url imagen",
+		"code": 83725,
+		"stock": 60,
+		"id": 10
+	}
+]
