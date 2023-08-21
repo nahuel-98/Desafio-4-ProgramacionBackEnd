@@ -4,12 +4,12 @@ import handlebars from "express-handlebars";
 import productsRouter from "./routes/products.router.js";
 import cartsRouter from "./routes/carts.router.js";
 import viewsRouter from "./routes/views.router.js";
-import ProductManager from "../managers/productsManager.js";
+import ProductManager from "./managers/ProductsManager.js";
 import { __dirname } from "./utils.js";
 
 const app = express();
 
-const PORT = 8080;
+const PORT = 6080;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(`${__dirname}/public`));
